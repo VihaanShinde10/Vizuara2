@@ -1,0 +1,52 @@
+{
+  "scene_1": {
+    "scene_number": 1,
+    "narration": "\"Tensions simmer in Vinayak's village as he leads his fellow students in a bold, yet reckless, attack on the mosque. The air is thick with anger and uncertainty, setting the stage for a lifetime of revolution.\"",
+    "scene_prompt": "## Scene 1\nScene 1: Vinayak's Village\nVisual: A bustling village scene with Vinayak, a young boy, standing in the center, surrounded by his fellow students, and a mosque in the background. The atmosphere is tense, with angry villagers and riot police in the distance. Vinayak is holding a stick, and his eyes are fixed on the mosque. The sky is overcast, with dark clouds gathering.\nStyle: western comic with muted colors and dramatic shading."
+  },
+  "scene_2": {
+    "scene_number": 2,
+    "narration": "\"In the heart of London, Vinayak's eyes scan the newspaper, fueled by revolutionary ideas that will change the course of history. Determination etched on his face, he walks among the city's towering skyscrapers.\"",
+    "scene_prompt": "## Scene 2\nScene 2: London Streets\nVisual: A busy London street scene with Vinayak, a young man, walking down the sidewalk, surrounded by tall buildings and street lamps. He's holding a book and looking at a newspaper in his hand. People are passing by, and the atmosphere is lively. Vinayak's expression is determined, and his eyes are fixed on the newspaper.\nStyle: western comic with detailed cityscapes and dynamic poses."
+  },
+  "scene_3": {
+    "scene_number": 3,
+    "narration": "\"In the dimly lit India House, Vinayak's pen scratches out a revolutionary manifesto, his eyes burning with a fire that will change the course of history. The weight of his words hangs in the air, a challenge to the British Empire.\"",
+    "scene_prompt": "## Scene 3\nScene 3: India House\nVisual: A dimly lit room with Vinayak, a young man, sitting at a desk, surrounded by books and papers. He's writing in a notebook, and his eyes are fixed on the page. The atmosphere is intense, with a sense of urgency in the air. Vinayak's expression is focused, and his hands are moving quickly.\nStyle: western comic with moody lighting and close-ups."
+  },
+  "scene_4": {
+    "scene_number": 4,
+    "narration": "As Vinayak stands on the Marseille dock, the Mediterranean horizon beckons freedom, his eyes burning with a fire that refuses to be contained. He takes a deep breath, ready to make his daring escape.",
+    "scene_prompt": "## Scene 4\nScene 4: Marseille Harbor\nVisual: A bustling harbor scene with the SS Morea ship in the background, and Vinayak, a young man, standing on the dock, looking out at the sea. The atmosphere is tense, with police officers and sailors surrounding him. Vinayak's expression is determined, and his eyes are fixed on the horizon.\nStyle: western comic with dynamic action and dramatic poses."
+  },
+  "scene_5": {
+    "scene_number": 5,
+    "narration": "\"With a fierce cry, Vinayak leaps from the ship's window, plunging into the dark waters of the Mediterranean. Freedom's call echoes through the waves as he swims towards the French shore.\"",
+    "scene_prompt": "## Scene 5\nScene 5: Vinayak's Escape\nVisual: A dramatic scene with Vinayak, a young man, jumping from the ship's window, and swimming towards the French shore. The atmosphere is intense, with waves crashing against the shore, and police officers shouting in the background. Vinayak's expression is fierce, and his body is arched in mid-air.\nStyle: western comic with dynamic action and splash pages."
+  },
+  "scene_6": {
+    "scene_number": 6,
+    "narration": "\"In the depths of Cellular Jail, Vinayak's spirit remains unbroken, his eyes burning with a fire that refuses to be extinguished by the darkness around him.\"",
+    "scene_prompt": "## Scene 6\nScene 6: Cellular Jail\nVisual: A bleak and foreboding scene with Vinayak, a young man, standing in a dimly lit cell, surrounded by stone walls and iron bars. The atmosphere is oppressive, with a sense of hopelessness in the air. Vinayak's expression is somber, and his eyes are fixed on the floor.\nStyle: western comic with moody lighting and atmospheric shading."
+  },
+  "scene_7": {
+    "scene_number": 7,
+    "narration": "\"In the depths of Ratnagiri Prison, Vinayak's pen scratches out a new vision - one of Hindu unity and strength. His eyes burn with determination as he writes the 'Essentials of Hindutva'.\"",
+    "scene_prompt": "## Scene 7\nScene 7: Ratnagiri Prison\nVisual: A scene with Vinayak, a middle-aged man, sitting at a desk, surrounded by books and papers. He's writing in a notebook, and his eyes are fixed on the page. The atmosphere is intense, with a sense of focus in the air. Vinayak's expression is determined, and his hands are moving quickly.\nStyle: western comic with detailed settings and close-ups."
+  },
+  "scene_8": {
+    "scene_number": 8,
+    "narration": "\"In the depths of Ratnagiri's darkness, Vinayak's mind ignited with a vision - 'Essentials of Hindutva', a manifesto born from fire and conviction.\" His pen danced across the page, shaping the future of Hindu nationalism.",
+    "scene_prompt": "## Scene 8\nScene 8: Essentials of Hindutva\nVisual: A scene with Vinayak, a middle-aged man, sitting at a desk, surrounded by books and papers. He's writing in a notebook, and his eyes are fixed on the page. The atmosphere is intense, with a sense of creativity in the air. Vinayak's expression is thoughtful, and his hands are moving slowly.\nStyle: western comic with moody lighting and atmospheric shading."
+  },
+  "scene_9": {
+    "scene_number": 9,
+    "narration": "\"Vinayak's voice echoes through the Hindu Mahasabha rally, his words igniting a fire of patriotism in the hearts of his followers. 'Hinduise all Politics and Militarise Hindudom' - his battle cry resounds, unifying the crowd.\"",
+    "scene_prompt": "## Scene 9\nScene 9: Hindu Mahasabha Rally\nVisual: A vibrant scene with Vinayak, a middle-aged man, standing on a stage, surrounded by a crowd of people. He's holding a microphone, and his eyes are fixed on the audience. The atmosphere is energetic, with a sense of excitement in the air. Vinayak's expression is confident, and his voice is booming.\nStyle: western comic with dynamic action and splash pages."
+  },
+  "scene_10": {
+    "scene_number": 10,
+    "narration": "\"In a nation torn apart, Vinayak stands firm, urging Hindus to resist the Quit India movement and enlist in the war effort.\" \"His words ignite a fire of defiance, as the crowd hangs on his every phrase.\"",
+    "scene_prompt": "## Scene 10\nScene 10: Quit India Movement\nVisual: A scene with Vinayak, an older man, standing on a stage, surrounded by a crowd of people. He's holding a microphone, and his eyes are fixed on the audience. The atmosphere is tense, with a sense of urgency in the air. Vinayak's expression is determined, and his voice is firm.\nStyle: western comic with moody lighting and atmospheric shading."
+  }
+}

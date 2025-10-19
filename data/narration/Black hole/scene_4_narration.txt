@@ -1,0 +1,17 @@
+# Scene 4 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Karl Schwarzschild looks at his paper with excitement and curiosity. He's solving Einstein's big puzzle, and it's a breakthrough! This moment changes everything, helping us understand black holes. Schwarzschild's discovery is a big deal, and it will take black hole research to the next level.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 4
+Scene 4: Karl Schwarzschild's Solution
+Narrative Context: This scene showcases Karl Schwarzschild's solution to Einstein's general relativity, which characterized a black hole. It serves to illustrate the progression of black hole research and the contributions of key figures.
+Visual Description: A close-up of Karl Schwarzschild's face as he looks at a piece of paper with a mixture of excitement and curiosity. The background is a blurred version of a wartime hospital, with medical equipment and nurses walking in the background. The lighting is soft and muted, with a sense of quiet contemplation. The camera angle is close, emphasizing Schwarzschild's emotions.
+Style Notes: western comic with a focus on detailed character expressions and subtle background elements
+Continuity: This scene connects to the next by highlighting the significance of Schwarzschild's solution and its impact on black hole research.

@@ -1,0 +1,60 @@
+# Black hole - Comic Storyline
+
+# Black hole: Comprehensive Comic Storyline
+
+## Story Overview
+The story of black holes is a fascinating journey that spans centuries, from the early proposals of English astronomical pioneer John Michell and French scientist Pierre-Simon Laplace to the modern discoveries and research that have made black holes a mainstream subject of study. This narrative arc takes us through the history of black hole research, from the initial ideas of massive, invisible bodies to the current understanding of their properties and behaviors. Along the way, we meet key figures such as Albert Einstein, Karl Schwarzschild, and Stephen Hawking, who have contributed significantly to our understanding of these mysterious objects. The climax of the story is the direct detection of gravitational waves and the first image of a black hole, marking a new era in black hole research.
+
+## Historical/Contextual Background
+The concept of black holes emerged in the 18th century, when scientists like John Michell and Pierre-Simon Laplace proposed the idea of massive, invisible bodies that could trap light. Over time, our understanding of black holes has evolved through the contributions of many scientists, including Albert Einstein, who introduced the theory of general relativity. This theory formed the basis for modern black hole physics, and subsequent research has led to a deeper understanding of these enigmatic objects.
+
+## Main Characters & Key Figures
+* **John Michell**: An English astronomical pioneer who first proposed the idea of a massive, invisible body that could trap light. Michell's idea was groundbreaking, and his calculations showed that a star with the same density as the Sun but 500 times larger would have an escape velocity greater than the speed of light.
+* **Pierre-Simon Laplace**: A French scientist who independently proposed the idea of massive, invisible bodies. Laplace's work on the origin of the Solar System led him to consider the possibility of invisible stars that could affect the motion of visible bodies.
+* **Albert Einstein**: A renowned physicist who introduced the theory of general relativity, which predicts the existence of black holes. Einstein's work revolutionized our understanding of gravity and spacetime, and his theory of general relativity has been instrumental in the development of modern black hole physics.
+* **Karl Schwarzschild**: A German physicist who found the first modern solution of general relativity that would characterize a black hole. Schwarzschild's solution described the gravitational field of a point mass and a spherical mass, and his work laid the foundation for modern black hole research.
+* **Stephen Hawking**: A British theoretical physicist and cosmologist who made significant contributions to our understanding of black holes. Hawking's work on Hawking radiation and black hole thermodynamics has been instrumental in shaping our current understanding of these mysterious objects.
+
+## Act 1: The Beginning - Early Proposals
+In the 18th century, John Michell and Pierre-Simon Laplace proposed the idea of massive, invisible bodies that could trap light. Michell's calculations showed that a star with the same density as the Sun but 500 times larger would have an escape velocity greater than the speed of light. This idea was initially met with excitement, but enthusiasm dampened in the early 19th century when light was discovered to be wavelike. The concept of black holes lay dormant until the 20th century, when Albert Einstein's theory of general relativity predicted the existence of such objects.
+
+## Act 2: Rising Action - Theoretical Developments
+In the early 20th century, Karl Schwarzschild found the first modern solution of general relativity that would characterize a black hole. David Finkelstein later identified the Schwarzschild surface as an event horizon, marking a significant milestone in black hole research. The 1960s saw a surge in theoretical work, with scientists like Roger Penrose and Stephen Hawking making significant contributions to our understanding of black holes. The no-hair theorem, which states that a stationary black hole is completely described by three parameters (mass, angular momentum, and electric charge), was also developed during this period.
+
+## Act 3: Turning Point - Direct Detection and Imaging
+The first strong evidence for black holes came from combined X-ray and optical observations of Cygnus X-1 in 1972. However, it wasn't until 2016 that the LIGO Scientific Collaboration and the Virgo collaboration announced the first direct detection of gravitational waves, representing the first observation of a black hole merger. In 2019, the first direct image of a black hole and its vicinity was published, following observations made by the Event Horizon Telescope (EHT) in 2017 of the supermassive black hole in Messier 87's galactic centre. These discoveries marked a new era in black hole research, providing unprecedented insights into the properties and behaviors of these enigmatic objects.
+
+## Act 4: Climax & Resolution - Modern Understanding
+The direct detection of gravitational waves and the first image of a black hole have significantly advanced our understanding of these mysterious objects. We now know that black holes are characterized by three independent physical properties: mass, electric charge, and angular momentum. The no-hair theorem, which states that a stationary black hole is completely described by these three parameters, has been instrumental in shaping our current understanding of black holes. Furthermore, the discovery of Hawking radiation has led to a deeper understanding of black hole thermodynamics and the behavior of these objects over time.
+
+## Act 5: Lasting Impact & Legacy - Ongoing Research and Exploration
+The study of black holes continues to be an active area of research, with scientists exploring new ways to detect and study these objects. The detection of gravitational waves and the imaging of black holes have opened up new avenues for research, and scientists are now working to refine our understanding of black hole properties and behaviors. The legacy of black hole research is a testament to human curiosity and the power of scientific inquiry, and it is likely that future discoveries will continue to shape our understanding of the universe and its many mysteries.
+
+## Key Themes & Messages
+* The power of human curiosity and scientific inquiry in advancing our understanding of the universe
+* The importance of perseverance and collaboration in overcoming challenges and achieving breakthroughs
+* The significance of black holes as a window into the fundamental laws of physics and the behavior of matter in extreme environments
+* The ongoing quest for knowledge and understanding that drives scientists to continue exploring and studying black holes
+* The potential for future discoveries to revolutionize our understanding of the universe and its many mysteries
+
+## Critical Moments for Visualization
+* John Michell proposing the idea of a massive, invisible body that could trap light
+* Karl Schwarzschild finding the first modern solution of general relativity that would characterize a black hole
+* David Finkelstein identifying the Schwarzschild surface as an event horizon
+* The first direct detection of gravitational waves and the observation of a black hole merger
+* The first direct image of a black hole and its vicinity, taken by the Event Horizon Telescope
+* Stephen Hawking proposing the concept of Hawking radiation and black hole thermodynamics
+* The detection of Hawking radiation and the observation of black hole evaporation
+* The imaging of black hole environments and the study of black hole accretion disks
+
+## Timeline & Chronology
+1. 1784: John Michell proposes the idea of a massive, invisible body that could trap light
+2. 1796: Pierre-Simon Laplace independently proposes the idea of massive, invisible bodies
+3. 1915: Albert Einstein introduces the theory of general relativity
+4. 1916: Karl Schwarzschild finds the first modern solution of general relativity that would characterize a black hole
+5. 1958: David Finkelstein identifies the Schwarzschild surface as an event horizon
+6. 1967: The first black hole candidate, Cygnus X-1, is discovered
+7. 1972: The first strong evidence for black holes comes from combined X-ray and optical observations of Cygnus X-1
+8. 2016: The LIGO Scientific Collaboration and the Virgo collaboration announce the first direct detection of gravitational waves
+9. 2019: The first direct image of a black hole and its vicinity is published, following observations made by the Event Horizon Telescope
+10. Ongoing: Research and exploration of black holes continue, with scientists working to refine our understanding of these mysterious objects and their role in the universe.

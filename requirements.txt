@@ -1,0 +1,17 @@
+streamlit
+wikipedia
+groq
+google-genai
+requests
+Pillow
+regex
+python-dotenv
+gTTS
+moviepy
+imageio
+imageio-ffmpeg
+numpy
+pydub
+soundfile
+ffmpeg-python
+

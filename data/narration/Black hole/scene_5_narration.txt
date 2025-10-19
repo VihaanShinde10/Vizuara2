@@ -1,0 +1,17 @@
+# Scene 5 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Scientists are working hard in a modern lab, looking at data on screens. They're excited because they just discovered something big - the event horizon, a key part of a black hole. This changes everything, helping us understand these mysterious objects better.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 5
+Scene 5: The Event Horizon and Black Hole Research
+Narrative Context: This scene marks a significant turning point in the story, as David Finkelstein identifies the Schwarzschild surface as an event horizon. It serves to illustrate the progression of black hole research and the understanding of these mysterious objects.
+Visual Description: A wide shot of a modern research facility, with scientists working on computers and looking at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and futuristic, with a sense of excitement and discovery. The camera angle is high, emphasizing the scope of the research.
+Style Notes: western comic with a focus on futuristic settings and dynamic compositions
+Continuity: This scene connects to the next by showcasing the advancements in black hole research and the understanding of event horizons.

@@ -1,0 +1,79 @@
+# Sachin Tendulkar - Complete Story Content
+
+## Storyline
+Error generating storyline: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01jbkbmxn8e298ezswyxsq6rb9` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 12367, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+================================================================================
+
+## Scene Prompts
+
+### Scene 1
+Scene 1: Introduction to Sachin
+Visual: A young Sachin Tendulkar holding a cricket bat, standing in front of a Mumbai street with vendors and pedestrians, warm sunlight casting long shadows.
+Style: western comic with bold lines, vibrant colors, and dynamic posing.
+
+--------------------------------------------------
+
+### Scene 2
+Scene 2: Early Cricket Days
+Visual: Sachin as a boy, playing cricket with friends in a dusty Mumbai alley, old buildings and clotheslines in the background, intense action and movement.
+Style: western comic with exaggerated facial expressions, detailed textures, and kinetic energy.
+
+--------------------------------------------------
+
+### Scene 3
+Scene 3: Meeting the Coach
+Visual: Sachin standing nervously in front of his coach, a wise and experienced man with a kind face, in a dimly lit cricket academy, trophies and equipment on shelves.
+Style: western comic with subtle shading, expressive body language, and a sense of anticipation.
+
+--------------------------------------------------
+
+### Scene 4
+Scene 4: Training Montage
+Visual: Sachin practicing cricket in various locations, sweat dripping, muscles tensed, with speed lines and motion blur, conveying dedication and hard work.
+Style: western comic with rapid panel progression, bold inking, and vivid color palette.
+
+--------------------------------------------------
+
+### Scene 5
+Scene 5: First Match
+Visual: Sachin, dressed in cricket gear, walking onto a crowded stadium field, fans cheering, sunlight reflecting off the grass, a mix of excitement and nerves.
+Style: western comic with dramatic lighting, detailed crowd scenes, and dynamic camera angles.
+
+--------------------------------------------------
+
+### Scene 6
+Scene 6: Facing Challenges
+Visual: Sachin standing at the crease, facing a fierce bowler, ball flying towards him, with motion lines and intense focus, conveying concentration and skill.
+Style: western comic with high-contrast colors, dramatic shadows, and a sense of tension.
+
+--------------------------------------------------
+
+### Scene 7
+Scene 7: Celebrating Success
+Visual: Sachin, arms raised in triumph, basking in applause, teammates congratulating him, confetti and flags waving, a bright and joyful atmosphere.
+Style: western comic with vibrant colors, expressive character reactions, and a sense of euphoria.
+
+--------------------------------------------------
+
+### Scene 8
+Scene 8: International Debut
+Visual: Sachin, in his Indian cricket team uniform, standing proudly with teammates, national flags and logos in the background, a sense of pride and responsibility.
+Style: western comic with detailed uniforms, realistic stadium backgrounds, and a sense of grandeur.
+
+--------------------------------------------------
+
+### Scene 9
+Scene 9: Overcoming Adversity
+Visual: Sachin, injured and sitting on the sidelines, watching his teammates play, a mix of frustration and determination on his face, with muted colors and subtle shading.
+Style: western comic with muted color palette, expressive character emotions, and a sense of introspection.
+
+--------------------------------------------------
+
+### Scene 10
+Scene 10: Legendary Status
+Visual: Sachin, now an older and revered cricketer, standing in front of a packed stadium, fans cheering, holding a cricket bat and wearing a nostalgic expression, warm sunlight casting a golden glow.
+Style: western comic with warm colors, detailed character design, and a sense of nostalgia and admiration.
+
+--------------------------------------------------
+

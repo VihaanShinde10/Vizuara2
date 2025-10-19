@@ -1,0 +1,17 @@
+# Scene 1 Narration - Ramayana
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+In the resplendent palace of Ayodhya, a new era dawns as Queen Kausalya cradles the serene newborn Rama, surrounded by jubilant servants and family, basking in the warm, golden light of celebration, as the kingdom's fate is forever changed by his arrival.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 1
+Scene 1: The Birth of Rama
+Narrative Context: The story begins with the birth of Rama, a prince of Ayodhya, and sets the stage for his journey. This scene introduces the main character and establishes the royal setting of the kingdom.
+Visual Description: A grand, ornate palace with a bright, sunny courtyard. Rama's mother, Queen Kausalya, holds the newborn Rama, surrounded by joyful servants and family members. The camera angle is high, looking down on the scene, with a warm, golden light and a sense of celebration. Rama's face is serene, with a hint of a smile. The color palette is vibrant, with shades of red, gold, and blue.
+Style Notes: western comic with intricate, detailed backgrounds and expressive character designs.
+Continuity: This scene connects to the next by introducing Rama and the royal family, setting the stage for the events that will unfold.

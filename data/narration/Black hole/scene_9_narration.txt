@@ -1,0 +1,17 @@
+# Scene 9 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Scientists are working hard to understand black holes. They study data and look at stars on big screens. This research is important because it helps us learn about the universe and how black holes work. It's an exciting time for space discovery!
+
+==================================================
+
+## Original Scene Prompt
+## Scene 9
+Scene 9: Understanding Black Hole Properties and Behaviors
+Narrative Context: This scene showcases the current understanding of black hole properties and behaviors, highlighting the significance of the discoveries and the ongoing research. It serves to illustrate the progression of black hole physics and the understanding of these mysterious objects.
+Visual Description: A wide shot of a modern research facility, with scientists working on computers and looking at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and futuristic, with a sense of excitement and discovery. The camera angle is high, emphasizing the scope of the research.
+Style Notes: western comic with a focus on futuristic settings and dynamic compositions
+Continuity: This scene connects to the next by showcasing the ongoing research and the significance of the discoveries.

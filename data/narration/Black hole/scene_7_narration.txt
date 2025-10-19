@@ -1,0 +1,17 @@
+# Scene 7 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Scientists are cheering and hugging each other! They just detected gravitational waves for the first time. This is a big deal - it proves a key part of Einstein's theory. Everyone is excited because it's a major breakthrough in understanding the universe.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 7
+Scene 7: The First Direct Detection of Gravitational Waves
+Narrative Context: This scene marks a major milestone in the story, as the LIGO Scientific Collaboration and the Virgo collaboration announce the first direct detection of gravitational waves. It serves to illustrate the culmination of decades of research and the significance of this discovery.
+Visual Description: A wide shot of a modern research facility, with scientists cheering and hugging each other as they look at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and celebratory, with a sense of excitement and achievement. The camera angle is high, emphasizing the scope of the discovery.
+Style Notes: western comic with a focus on dynamic compositions and expressive character reactions
+Continuity: This scene connects to the next by showcasing the impact of the discovery and the excitement of the scientific community.

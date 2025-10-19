@@ -1,0 +1,92 @@
+# Black hole - Scene Prompts
+
+## Scene 1
+Scene 1: Introduction to the Concept of Black Holes
+Narrative Context: This scene introduces the concept of black holes and sets the stage for the story, showcasing the initial ideas of John Michell and Pierre-Simon Laplace. It serves as the foundation for understanding the historical context of black hole research.
+Visual Description: A wide shot of a 18th-century study room with John Michell and Pierre-Simon Laplace sitting at a desk, surrounded by books and celestial maps. Michell is pointing to a diagram, while Laplace looks intrigued. The room is dimly lit with warm, golden light, and the atmosphere is one of curiosity and discovery. The camera angle is slightly overhead, emphasizing the importance of the moment.
+Style Notes: western comic with a focus on detailed backgrounds and character expressions
+Continuity: This scene connects to the next by introducing the concept of black holes and the key figures involved in its development.
+
+==================================================
+
+## Scene 2
+Scene 2: Early Theories and Calculations
+Narrative Context: This scene delves into the early theories and calculations of John Michell, highlighting his groundbreaking work on the concept of massive, invisible bodies. It serves to illustrate the foundation of black hole physics and the initial understanding of these mysterious objects.
+Visual Description: A close-up of John Michell's hands as he writes calculations on a piece of paper, with a look of intense focus on his face. The background is a blurred version of the study room, with books and papers scattered around. The lighting is soft and natural, with a warm glow on Michell's face. The camera angle is close, emphasizing Michell's concentration.
+Style Notes: western comic with a focus on detailed character close-ups and expressive hands
+Continuity: This scene connects to the next by showcasing the development of Michell's ideas and the progression of his research.
+
+==================================================
+
+## Scene 3
+Scene 3: Introduction to Albert Einstein and General Relativity
+Narrative Context: This scene introduces Albert Einstein and his theory of general relativity, marking a significant turning point in the understanding of black holes. It serves to highlight the importance of Einstein's work in predicting the existence of black holes.
+Visual Description: A wide shot of Albert Einstein standing in front of a blackboard filled with complex equations, with a confident smile on his face. The background is a modern, early 20th-century university setting, with students and professors walking in the background. The lighting is bright and natural, with a sense of excitement and discovery. The camera angle is slightly low, emphasizing Einstein's authority.
+Style Notes: western comic with a focus on dynamic poses and expressive facial expressions
+Continuity: This scene connects to the next by introducing Einstein's theory and its significance in the development of black hole research.
+
+==================================================
+
+## Scene 4
+Scene 4: Karl Schwarzschild's Solution
+Narrative Context: This scene showcases Karl Schwarzschild's solution to Einstein's general relativity, which characterized a black hole. It serves to illustrate the progression of black hole research and the contributions of key figures.
+Visual Description: A close-up of Karl Schwarzschild's face as he looks at a piece of paper with a mixture of excitement and curiosity. The background is a blurred version of a wartime hospital, with medical equipment and nurses walking in the background. The lighting is soft and muted, with a sense of quiet contemplation. The camera angle is close, emphasizing Schwarzschild's emotions.
+Style Notes: western comic with a focus on detailed character expressions and subtle background elements
+Continuity: This scene connects to the next by highlighting the significance of Schwarzschild's solution and its impact on black hole research.
+
+==================================================
+
+## Scene 5
+Scene 5: The Event Horizon and Black Hole Research
+Narrative Context: This scene marks a significant turning point in the story, as David Finkelstein identifies the Schwarzschild surface as an event horizon. It serves to illustrate the progression of black hole research and the understanding of these mysterious objects.
+Visual Description: A wide shot of a modern research facility, with scientists working on computers and looking at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and futuristic, with a sense of excitement and discovery. The camera angle is high, emphasizing the scope of the research.
+Style Notes: western comic with a focus on futuristic settings and dynamic compositions
+Continuity: This scene connects to the next by showcasing the advancements in black hole research and the understanding of event horizons.
+
+==================================================
+
+## Scene 6
+Scene 6: Stephen Hawking and Black Hole Thermodynamics
+Narrative Context: This scene introduces Stephen Hawking and his work on black hole thermodynamics, highlighting his significant contributions to the field. It serves to illustrate the ongoing research and discoveries in black hole physics.
+Visual Description: A close-up of Stephen Hawking's face as he looks at a blackboard filled with complex equations, with a determined expression. The background is a blurred version of a university setting, with students and professors walking in the background. The lighting is soft and natural, with a sense of quiet contemplation. The camera angle is close, emphasizing Hawking's focus.
+Style Notes: western comic with a focus on detailed character expressions and subtle background elements
+Continuity: This scene connects to the next by highlighting Hawking's work and its significance in the development of black hole research.
+
+==================================================
+
+## Scene 7
+Scene 7: The First Direct Detection of Gravitational Waves
+Narrative Context: This scene marks a major milestone in the story, as the LIGO Scientific Collaboration and the Virgo collaboration announce the first direct detection of gravitational waves. It serves to illustrate the culmination of decades of research and the significance of this discovery.
+Visual Description: A wide shot of a modern research facility, with scientists cheering and hugging each other as they look at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and celebratory, with a sense of excitement and achievement. The camera angle is high, emphasizing the scope of the discovery.
+Style Notes: western comic with a focus on dynamic compositions and expressive character reactions
+Continuity: This scene connects to the next by showcasing the impact of the discovery and the excitement of the scientific community.
+
+==================================================
+
+## Scene 8
+Scene 8: The First Image of a Black Hole
+Narrative Context: This scene marks another major milestone in the story, as the Event Horizon Telescope (EHT) captures the first direct image of a black hole. It serves to illustrate the culmination of decades of research and the significance of this discovery.
+Visual Description: A close-up of a computer screen displaying the first image of a black hole, with a group of scientists looking at it in awe. The background is a blurred version of a research facility, with equipment and computers surrounding the scientists. The lighting is soft and muted, with a sense of wonder and discovery. The camera angle is close, emphasizing the image and the scientists' reactions.
+Style Notes: western comic with a focus on detailed computer screens and expressive character reactions
+Continuity: This scene connects to the next by highlighting the significance of the image and its impact on the scientific community.
+
+==================================================
+
+## Scene 9
+Scene 9: Understanding Black Hole Properties and Behaviors
+Narrative Context: This scene showcases the current understanding of black hole properties and behaviors, highlighting the significance of the discoveries and the ongoing research. It serves to illustrate the progression of black hole physics and the understanding of these mysterious objects.
+Visual Description: A wide shot of a modern research facility, with scientists working on computers and looking at data on screens. The background is a large, circular room with a dome-shaped ceiling, filled with stars and celestial maps. The lighting is bright and futuristic, with a sense of excitement and discovery. The camera angle is high, emphasizing the scope of the research.
+Style Notes: western comic with a focus on futuristic settings and dynamic compositions
+Continuity: This scene connects to the next by showcasing the ongoing research and the significance of the discoveries.
+
+==================================================
+
+## Scene 10
+Scene 10: The Legacy of Black Hole Research
+Narrative Context: This scene serves as the conclusion, highlighting the significance of black hole research and its impact on our understanding of the universe. It marks the end of the story arc, showcasing the lasting legacy of the discoveries and the ongoing quest for knowledge.
+Visual Description: A wide shot of a starry night sky, with a silhouette of a scientist looking up at the stars. The background is a blurred version of a cityscape, with buildings and trees surrounding the scientist. The lighting is soft and natural, with a sense of wonder and contemplation. The camera angle is high, emphasizing the scope of the universe.
+Style Notes: western comic with a focus on dramatic poses and subtle background elements
+Continuity: This scene concludes the story, leaving the reader with a sense of awe and curiosity about the universe and its many mysteries.
+
+==================================================
+

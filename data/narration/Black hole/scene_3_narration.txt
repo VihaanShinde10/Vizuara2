@@ -1,0 +1,17 @@
+# Scene 3 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Albert Einstein stands confidently in front of a blackboard filled with equations. He's about to change everything with his theory of general relativity, predicting the existence of black holes. This moment is huge, and it will take black hole research to the next level.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 3
+Scene 3: Introduction to Albert Einstein and General Relativity
+Narrative Context: This scene introduces Albert Einstein and his theory of general relativity, marking a significant turning point in the understanding of black holes. It serves to highlight the importance of Einstein's work in predicting the existence of black holes.
+Visual Description: A wide shot of Albert Einstein standing in front of a blackboard filled with complex equations, with a confident smile on his face. The background is a modern, early 20th-century university setting, with students and professors walking in the background. The lighting is bright and natural, with a sense of excitement and discovery. The camera angle is slightly low, emphasizing Einstein's authority.
+Style Notes: western comic with a focus on dynamic poses and expressive facial expressions
+Continuity: This scene connects to the next by introducing Einstein's theory and its significance in the development of black hole research.

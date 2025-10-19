@@ -1,0 +1,17 @@
+# Scene 6 Narration - Mahabharata
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+The Pandavas and Kauravas play a tense game of dice. The Kauravas cheat, and the Pandavas lose everything. This deceitful game changes their fate, leading to exile and a big war. The room is dark and intense, filled with worry and anger.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 6
+Scene 6: The Dice Game
+Narrative Context: The dice game is a turning point in the story, marking the beginning of the end of the Pandavas' fortunes. This scene serves to highlight the cunning and deceit of the Kauravas.
+Visual Description: A dark, intense scene, with the Kauravas and the Pandavas seated around a gaming table, surrounded by shadows and ominous lighting. The atmosphere is tense, with a focus on the characters' facial expressions, conveying their emotions. The color palette is muted, with a focus on dark blues and greys.
+Style Notes: western comic with emphasis on tension and suspense
+Continuity: This scene connects to the next by showing the consequences of the dice game, leading to the exile of the Pandavas.

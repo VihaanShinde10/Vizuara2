@@ -1,0 +1,17 @@
+# Scene 6 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Stephen Hawking studies complex equations on a blackboard, determined to unlock black hole secrets. His work on thermodynamics is a major breakthrough, changing our understanding of these mysterious objects and what happens to them over time.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 6
+Scene 6: Stephen Hawking and Black Hole Thermodynamics
+Narrative Context: This scene introduces Stephen Hawking and his work on black hole thermodynamics, highlighting his significant contributions to the field. It serves to illustrate the ongoing research and discoveries in black hole physics.
+Visual Description: A close-up of Stephen Hawking's face as he looks at a blackboard filled with complex equations, with a determined expression. The background is a blurred version of a university setting, with students and professors walking in the background. The lighting is soft and natural, with a sense of quiet contemplation. The camera angle is close, emphasizing Hawking's focus.
+Style Notes: western comic with a focus on detailed character expressions and subtle background elements
+Continuity: This scene connects to the next by highlighting Hawking's work and its significance in the development of black hole research.

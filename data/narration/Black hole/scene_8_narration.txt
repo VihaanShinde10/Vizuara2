@@ -1,0 +1,17 @@
+# Scene 8 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Scientists stare in awe at the first image of a black hole on their computer screen. This moment is huge - it's the result of decades of research! They're finally seeing what they've been trying to understand for so long, and it's a major breakthrough.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 8
+Scene 8: The First Image of a Black Hole
+Narrative Context: This scene marks another major milestone in the story, as the Event Horizon Telescope (EHT) captures the first direct image of a black hole. It serves to illustrate the culmination of decades of research and the significance of this discovery.
+Visual Description: A close-up of a computer screen displaying the first image of a black hole, with a group of scientists looking at it in awe. The background is a blurred version of a research facility, with equipment and computers surrounding the scientists. The lighting is soft and muted, with a sense of wonder and discovery. The camera angle is close, emphasizing the image and the scientists' reactions.
+Style Notes: western comic with a focus on detailed computer screens and expressive character reactions
+Continuity: This scene connects to the next by highlighting the significance of the image and its impact on the scientific community.

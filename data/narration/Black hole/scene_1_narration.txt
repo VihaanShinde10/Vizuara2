@@ -1,0 +1,17 @@
+# Scene 1 Narration - Black hole
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+In a cozy 18th-century study, John Michell and Pierre-Simon Laplace explore a big idea: invisible bodies that trap light. They're curious and excited, changing our understanding of space forever. This moment matters, starting a journey to uncover the secrets of black holes.
+
+==================================================
+
+## Original Scene Prompt
+## Scene 1
+Scene 1: Introduction to the Concept of Black Holes
+Narrative Context: This scene introduces the concept of black holes and sets the stage for the story, showcasing the initial ideas of John Michell and Pierre-Simon Laplace. It serves as the foundation for understanding the historical context of black hole research.
+Visual Description: A wide shot of a 18th-century study room with John Michell and Pierre-Simon Laplace sitting at a desk, surrounded by books and celestial maps. Michell is pointing to a diagram, while Laplace looks intrigued. The room is dimly lit with warm, golden light, and the atmosphere is one of curiosity and discovery. The camera angle is slightly overhead, emphasizing the importance of the moment.
+Style Notes: western comic with a focus on detailed backgrounds and character expressions
+Continuity: This scene connects to the next by introducing the concept of black holes and the key figures involved in its development.

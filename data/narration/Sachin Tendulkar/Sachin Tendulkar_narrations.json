@@ -1,0 +1,52 @@
+{
+  "scene_1": {
+    "scene_number": 1,
+    "narration": "Young Sachin stands tall. Cricket dreams unfold.",
+    "scene_prompt": "## Scene 1\nScene 1: Introduction to Sachin\nVisual: A young Sachin Tendulkar holding a cricket bat, standing in front of a Mumbai street with vendors and pedestrians, warm sunlight casting long shadows.\nStyle: western comic with bold lines, vibrant colors, and dynamic posing."
+  },
+  "scene_2": {
+    "scene_number": 2,
+    "narration": "Sachin's passion ignites. Cricket fever grips Mumbai streets.",
+    "scene_prompt": "## Scene 2\nScene 2: Early Cricket Days\nVisual: Sachin as a boy, playing cricket with friends in a dusty Mumbai alley, old buildings and clotheslines in the background, intense action and movement.\nStyle: western comic with exaggerated facial expressions, detailed textures, and kinetic energy."
+  },
+  "scene_3": {
+    "scene_number": 3,
+    "narration": "Sachin stands nervously. A new journey begins.",
+    "scene_prompt": "## Scene 3\nScene 3: Meeting the Coach\nVisual: Sachin standing nervously in front of his coach, a wise and experienced man with a kind face, in a dimly lit cricket academy, trophies and equipment on shelves.\nStyle: western comic with subtle shading, expressive body language, and a sense of anticipation."
+  },
+  "scene_4": {
+    "scene_number": 4,
+    "narration": "Sachin trains relentlessly. Sweat and dedication fuel his dream.",
+    "scene_prompt": "## Scene 4\nScene 4: Training Montage\nVisual: Sachin practicing cricket in various locations, sweat dripping, muscles tensed, with speed lines and motion blur, conveying dedication and hard work.\nStyle: western comic with rapid panel progression, bold inking, and vivid color palette."
+  },
+  "scene_5": {
+    "scene_number": 5,
+    "narration": "Sachin steps into glory. Crowds erupt.",
+    "scene_prompt": "## Scene 5\nScene 5: First Match\nVisual: Sachin, dressed in cricket gear, walking onto a crowded stadium field, fans cheering, sunlight reflecting off the grass, a mix of excitement and nerves.\nStyle: western comic with dramatic lighting, detailed crowd scenes, and dynamic camera angles."
+  },
+  "scene_6": {
+    "scene_number": 6,
+    "narration": "Tension builds. Sachin focuses.",
+    "scene_prompt": "## Scene 6\nScene 6: Facing Challenges\nVisual: Sachin standing at the crease, facing a fierce bowler, ball flying towards him, with motion lines and intense focus, conveying concentration and skill.\nStyle: western comic with high-contrast colors, dramatic shadows, and a sense of tension."
+  },
+  "scene_7": {
+    "scene_number": 7,
+    "narration": "Triumphant cheers erupt. Glory unfolds.",
+    "scene_prompt": "## Scene 7\nScene 7: Celebrating Success\nVisual: Sachin, arms raised in triumph, basking in applause, teammates congratulating him, confetti and flags waving, a bright and joyful atmosphere.\nStyle: western comic with vibrant colors, expressive character reactions, and a sense of euphoria."
+  },
+  "scene_8": {
+    "scene_number": 8,
+    "narration": "Sachin stands tall. Pride and responsibility shine.",
+    "scene_prompt": "## Scene 8\nScene 8: International Debut\nVisual: Sachin, in his Indian cricket team uniform, standing proudly with teammates, national flags and logos in the background, a sense of pride and responsibility.\nStyle: western comic with detailed uniforms, realistic stadium backgrounds, and a sense of grandeur."
+  },
+  "scene_9": {
+    "scene_number": 9,
+    "narration": "Injury strikes, frustration mounts. Determination burns within.",
+    "scene_prompt": "## Scene 9\nScene 9: Overcoming Adversity\nVisual: Sachin, injured and sitting on the sidelines, watching his teammates play, a mix of frustration and determination on his face, with muted colors and subtle shading.\nStyle: western comic with muted color palette, expressive character emotions, and a sense of introspection."
+  },
+  "scene_10": {
+    "scene_number": 10,
+    "narration": "Legendary status awaits. Glory surrounds him.",
+    "scene_prompt": "## Scene 10\nScene 10: Legendary Status\nVisual: Sachin, now an older and revered cricketer, standing in front of a packed stadium, fans cheering, holding a cricket bat and wearing a nostalgic expression, warm sunlight casting a golden glow.\nStyle: western comic with warm colors, detailed character design, and a sense of nostalgia and admiration."
+  }
+}

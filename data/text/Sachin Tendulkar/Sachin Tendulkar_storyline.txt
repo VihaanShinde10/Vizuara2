@@ -1,0 +1,3 @@
+# Sachin Tendulkar - Comic Storyline
+
+Error generating storyline: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01jbkbmxn8e298ezswyxsq6rb9` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 12367, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
