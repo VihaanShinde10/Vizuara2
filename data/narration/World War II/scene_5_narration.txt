@@ -1,0 +1,17 @@
+# Scene 5 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99795, Requested 1108. Please try again in 13m0.192s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 5
+Scene 5: Stalingrad
+Narrative Context: The story continues with the Battle of Stalingrad, a major turning point on the Eastern Front. This scene serves to showcase the brutality and intensity of the war.
+Visual Description: A close-up shot of a soldier, looking tired and cold. The camera zooms out to reveal the devastated cityscape, with buildings in ruins. The mood is grim, with a cold color palette to represent the harsh winter.
+Style Notes: western comic style with gritty textures and muted colors.
+Continuity: This scene connects to the next by showing the Soviet Union's resistance and the growing momentum of the Allies.

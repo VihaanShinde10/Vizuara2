@@ -1,0 +1,17 @@
+# Scene 3 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99795, Requested 1125. Please try again in 13m14.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 3
+Scene 3: Battle of Britain
+Narrative Context: The story continues with the Battle of Britain, a crucial turning point in the war. This scene serves to showcase the determination of the British people and the introduction of the United States as a major player.
+Visual Description: A wide shot of the British countryside, with Spitfires flying overhead. Churchill is shown giving a speech, rallying the British people. The camera zooms in on a group of pilots, looking focused and determined. The mood is hopeful, with a bright blue sky and fluffy white clouds.
+Style Notes: western comic style with detailed backgrounds and character designs.
+Continuity: This scene connects to the next by showing the British resistance and the growing involvement of the United States.

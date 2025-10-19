@@ -1,0 +1,3 @@
+# World War II - Comic Storyline
+
+Error generating storyline: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97605, Requested 6021. Please try again in 52m12.864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}

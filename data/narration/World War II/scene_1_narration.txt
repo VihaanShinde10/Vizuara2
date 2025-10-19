@@ -1,0 +1,17 @@
+# Scene 1 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99795, Requested 1131. Please try again in 13m20.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 1
+Scene 1: Gathering Storm
+Narrative Context: The story begins with the introduction of the main characters and setting, showcasing the initial situation before the war. This scene serves to establish the pre-war atmosphere and introduce key figures.
+Visual Description: A wide shot of Europe, with Germany, Italy, and Japan prominent on the map. Hitler, Mussolini, and Hirohito are shown in separate frames, looking determined. The camera zooms out to reveal a darkening sky, symbolizing the impending war. The mood is tense, with a color palette of greys and blacks.
+Style Notes: western comic style with bold lines and dramatic shading.
+Continuity: This scene connects to the next by introducing the main antagonists and setting the stage for the war.

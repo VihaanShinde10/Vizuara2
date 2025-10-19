@@ -1,0 +1,17 @@
+# Scene 7 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99794, Requested 1114. Please try again in 13m4.512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 7
+Scene 7: Atomic Bombings
+Narrative Context: The story continues with the atomic bombings of Hiroshima and Nagasaki, a devastating turning point in the war. This scene serves to show the horror and destruction caused by the bombings.
+Visual Description: A dramatic shot of the mushroom cloud, with people running in the foreground. The camera angle is high, looking down at the destruction, emphasizing the scale of the disaster. The mood is somber, with a dark color palette to represent the tragedy.
+Style Notes: western comic style with intense, dramatic lighting and muted colors.
+Continuity: This scene connects to the next by showing the aftermath of the bombings and the Japanese surrender.

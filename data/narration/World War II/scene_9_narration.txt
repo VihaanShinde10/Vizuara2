@@ -1,0 +1,17 @@
+# Scene 9 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99794, Requested 1110. Please try again in 13m1.055999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 9
+Scene 9: Aftermath
+Narrative Context: The story continues with the aftermath of the war, showing the devastation and destruction caused by the conflict. This scene serves to highlight the human cost of the war and the need for rebuilding.
+Visual Description: A close-up shot of a survivor, looking tired and sad. The camera zooms out to reveal a devastated cityscape, with buildings in ruins. The mood is somber, with a muted color palette to represent the tragedy.
+Style Notes: western comic style with gritty textures and muted colors.
+Continuity: This scene connects to the next by showing the lasting impact of the war and the need for reconstruction.

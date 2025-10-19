@@ -1,0 +1,17 @@
+# Scene 6 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99794, Requested 1108. Please try again in 12m59.328s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 6
+Scene 6: D-Day
+Narrative Context: The story progresses with the Allied invasion of Normandy, a crucial moment in the war. This scene serves to show the bravery and determination of the Allied forces.
+Visual Description: A wide shot of the Normandy beach, with soldiers storming ashore. The camera angle is low, looking up at the soldiers, emphasizing their courage. The mood is intense, with a warm color palette to represent the chaos of battle.
+Style Notes: western comic style with dynamic action sequences and dramatic lighting.
+Continuity: This scene connects to the next by showing the Allied advance and the growing momentum of the war.

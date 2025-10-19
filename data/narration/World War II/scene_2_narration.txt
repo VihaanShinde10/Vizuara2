@@ -1,0 +1,17 @@
+# Scene 2 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99795, Requested 1119. Please try again in 13m9.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 2
+Scene 2: Invasion of Poland
+Narrative Context: The story progresses with the invasion of Poland, marking the beginning of World War II. This scene serves to show the initial conflict and introduce the Allied powers.
+Visual Description: A dramatic shot of German tanks rolling into Poland, with soldiers marching behind. The Polish army is shown fighting back, but outnumbered. The camera angle is low, looking up at the tanks, emphasizing their power. The mood is chaotic, with a warm color palette to represent the intensity of battle.
+Style Notes: western comic style with dynamic action sequences and expressive character designs.
+Continuity: This scene connects to the next by showing the start of the war and the Allied response.

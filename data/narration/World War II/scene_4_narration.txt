@@ -1,0 +1,17 @@
+# Scene 4 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99795, Requested 1106. Please try again in 12m58.464s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 4
+Scene 4: Pearl Harbor
+Narrative Context: The story progresses with the attack on Pearl Harbor, drawing the United States into the war. This scene serves to show the surprise and shock of the American people.
+Visual Description: A dramatic shot of the USS Arizona exploding, with planes flying overhead. The camera angle is high, looking down at the chaos, emphasizing the destruction. The mood is shocked, with a dark color palette to represent the tragedy.
+Style Notes: western comic style with intense action sequences and dramatic lighting.
+Continuity: This scene connects to the next by showing the United States' entry into the war and the growing conflict.

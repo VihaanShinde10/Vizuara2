@@ -1,0 +1,17 @@
+# Scene 10 Narration - World War II
+
+**Style:** dramatic
+**Tone:** engaging
+
+## Narration Text
+Error generating narration: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k76s6ecvedn89h0n6mb43dkb` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99794, Requested 1126. Please try again in 13m14.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+==================================================
+
+## Original Scene Prompt
+## Scene 10
+Scene 10: Legacy
+Narrative Context: The story concludes with the legacy of World War II, showing the impact on the world and the lessons learned. This scene serves to highlight the importance of remembering the past and working towards a more peaceful future.
+Visual Description: A wide shot of the United Nations building, with flags of different countries flying. The camera zooms in on a group of people from different nations, looking hopeful and determined. The mood is hopeful, with a bright color palette to represent the dawn of a new era.
+Style Notes: western comic style with detailed backgrounds and character designs.
+Continuity: This scene concludes the story, showing the lasting impact of World War II and the importance of working towards a more peaceful future.
