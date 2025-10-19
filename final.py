@@ -1,5 +1,8 @@
 import streamlit as st
 import os
+import re
+import glob
+import json
 import logging
 from typing import Optional
 from dotenv import load_dotenv
@@ -350,6 +353,138 @@ def main():
     step_html += '</div>'
     st.markdown(step_html, unsafe_allow_html=True)
     
+    # Existing topics and assets reuse section
+    st.markdown('---')
+    st.markdown('<div class="section-header">📦 Reuse Existing Topics & Assets</div>', unsafe_allow_html=True)
+    
+    def _sanitize_title(name: str) -> str:
+        return re.sub(r'[\\/*?:"<>|]', '_', name).strip()
+    
+    def _list_existing_topics(base_images_dir: str = os.path.join('data', 'images')):
+        if not os.path.isdir(base_images_dir):
+            return []
+        try:
+            return sorted([d for d in os.listdir(base_images_dir) if os.path.isdir(os.path.join(base_images_dir, d))])
+        except Exception:
+            return []
+    
+    def _load_existing_assets(topic: str):
+        safe_title = _sanitize_title(topic)
+        images_dir = os.path.join('data', 'images', safe_title)
+        narr_base_dir = os.path.join('data', 'narration', safe_title)
+        narration_dir = os.path.join(narr_base_dir, 'audio')
+        text_dir = os.path.join('data', 'text', safe_title)
+        
+        # Images
+        image_paths = sorted(glob.glob(os.path.join(images_dir, 'scene_*.jpg')),
+                             key=lambda p: int(re.search(r'scene_(\d+)\.', os.path.basename(p)).group(1)) if re.search(r'scene_(\d+)\.', os.path.basename(p)) else 0)
+        
+        # Audio (mp3)
+        audio_paths = {}
+        if os.path.isdir(narration_dir):
+            for mp3 in glob.glob(os.path.join(narration_dir, 'scene_*.mp3')):
+                m = re.search(r'scene_(\d+)\.', os.path.basename(mp3))
+                if m:
+                    scene_num = int(m.group(1))
+                    audio_paths[f'scene_{scene_num}'] = mp3
+        
+        # Optional: load narrations json
+        narr_json = os.path.join(narr_base_dir, f'{safe_title}_narrations.json')
+        narr_data = None
+        if os.path.isfile(narr_json):
+            try:
+                with open(narr_json, 'r', encoding='utf-8') as f:
+                    narr_data = json.load(f)
+            except Exception:
+                narr_data = None
+        
+        # Optional: storyline for context
+        storyline_path = os.path.join(text_dir, f'{safe_title}_storyline.txt')
+        storyline = None
+        if os.path.isfile(storyline_path):
+            try:
+                with open(storyline_path, 'r', encoding='utf-8') as f:
+                    storyline = f.read()
+            except Exception:
+                storyline = None
+        
+        return image_paths, audio_paths, narr_data, storyline
+    
+    existing_topics = _list_existing_topics()
+    if existing_topics:
+        colA, colB = st.columns([2, 1])
+        with colA:
+            reuse_topic = st.selectbox('Select an existing topic to reuse assets', options=existing_topics, index=0)
+        with colB:
+            if st.button('🔄 Refresh List'):
+                st.rerun()
+        
+        if reuse_topic:
+            imgs, auds, narr_meta, storyline = _load_existing_assets(reuse_topic)
+            st.markdown(f"**Topic:** {reuse_topic}")
+            st.markdown(f"- Images found: {len(imgs)}")
+            st.markdown(f"- Audio files found: {len(auds)}")
+            if narr_meta:
+                st.markdown(f"- Narrations metadata detected")
+            if storyline:
+                with st.expander('📖 Preview Storyline (optional)', expanded=False):
+                    st.text_area('Storyline', value=storyline[:4000], height=180, label_visibility='collapsed')
+            
+            c1, c2, c3 = st.columns(3)
+            with c1:
+                if st.button('📥 Load Images Only'):
+                    if imgs:
+                        st.session_state.comic_images = imgs
+                        # set selected topic for video title
+                        st.session_state.selected_topic = reuse_topic
+                        st.session_state.page_info = {"title": reuse_topic}
+                        st.markdown('<div class="success-card">✅ Loaded images from existing topic.</div>', unsafe_allow_html=True)
+                    else:
+                        st.markdown('<div class="error-card">❌ No images found for this topic.</div>', unsafe_allow_html=True)
+            with c2:
+                if st.button('📥 Load Images + Audio'):
+                    if imgs:
+                        st.session_state.comic_images = imgs
+                        st.session_state.selected_topic = reuse_topic
+                        st.session_state.page_info = {"title": reuse_topic}
+                        if auds:
+                            st.session_state.audio_paths = {f"scene_{i}": auds.get(f"scene_{i}") for i in range(1, len(imgs) + 1) if auds.get(f"scene_{i}")}
+                            st.markdown('<div class="success-card">✅ Loaded images and audio from existing topic.</div>', unsafe_allow_html=True)
+                        else:
+                            st.markdown('<div class="warning-card">⚠️ No audio files found; you can still generate them in Step 5.</div>', unsafe_allow_html=True)
+                    else:
+                        st.markdown('<div class="error-card">❌ No images found for this topic.</div>', unsafe_allow_html=True)
+            with c3:
+                if st.button('🎬 Generate Video Now (if audio loaded)'):
+                    if st.session_state.get('comic_images') and st.session_state.get('audio_paths'):
+                        w, h = (1920, 1080)
+                        out_dir = os.path.join('data', 'videos')
+                        os.makedirs(out_dir, exist_ok=True)
+                        try:
+                            result = build_video(
+                                images=st.session_state.comic_images,
+                                scene_audio=st.session_state.audio_paths,
+                                out_dir=out_dir,
+                                title=st.session_state.page_info.get('title', reuse_topic),
+                                fps=30,
+                                resolution=(w, h),
+                                crossfade_sec=0.3,
+                                min_scene_seconds=3.0,
+                                head_pad=0.15,
+                                tail_pad=0.15,
+                                bg_music_path=None,
+                                bg_music_volume=0.08
+                            )
+                            st.session_state.final_video = result["video_path"]
+                            st.markdown('<div class="success-card">🎉 Video generated successfully from existing assets!</div>', unsafe_allow_html=True)
+                            st.rerun()
+                        except Exception as e:
+                            st.markdown(f'<div class="error-card">❌ Error generating video: {str(e)}</div>', unsafe_allow_html=True)
+                    else:
+                        st.markdown('<div class="warning-card">⚠️ Please load images and audio first.</div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div class="info-card">No existing topics found yet. Generate some images to see them here.</div>', unsafe_allow_html=True)
+    
     # Sidebar configuration
     with st.sidebar:
         st.markdown("### ⚙️ Configuration")
@@ -568,9 +703,13 @@ def main():
                                 st.session_state.comic_images = None
                                 st.rerun()
             else:
-                # Show page summary
+                # Show page summary if available
                 with st.expander("📄 View Article Summary", expanded=False):
-                    st.markdown(st.session_state.page_info["summary"])
+                    summary_text = st.session_state.page_info.get("summary") if isinstance(st.session_state.page_info, dict) else None
+                    if summary_text:
+                        st.markdown(summary_text)
+                    else:
+                        st.markdown("No summary available for this topic.")
                 
                 # Generate storyline button
                 if not st.session_state.storyline:
@@ -641,6 +780,30 @@ def main():
                     st.markdown(f"**Scene {i}:**")
                     st.text_area(f"Scene {i} Prompt", value=prompt, height=100, key=f"scene_prompt_view_{i}", label_visibility="collapsed")
             
+            # Helper: extract sheets for consistency
+            def _extract_character_sheet(story_text: str) -> str:
+                try:
+                    # Capture content under '## Main Characters' until next '##'
+                    match = re.search(r"##\s*Main Characters.*?\n(.*?)(?:\n##\s|\Z)", story_text, re.DOTALL | re.IGNORECASE)
+                    section = (match.group(1).strip() if match else "").strip()
+                    # Compact excessive whitespace and limit size
+                    section = re.sub(r"\n{2,}", "\n", section)
+                    return section[:1200]
+                except Exception:
+                    return ""
+
+            def _build_style_sheet(style_name: str) -> str:
+                base = f"Maintain a consistent '{style_name}' comic style across all scenes."
+                guidance = {
+                    "manga": "Use black-and-white tones, clean linework, expressive faces, dynamic panels.",
+                    "superhero comic": "Bold colors, strong outlines, dynamic poses, dramatic lighting.",
+                    "noir comic": "High contrast lighting, moody shadows, restrained palette.",
+                    "cartoon": "Simplified shapes, bold outlines, bright but balanced colors.",
+                    "western comic": "Clear linework, saturated palette, cinematic framing."
+                }
+                tip = guidance.get(style_name.lower(), "Consistent palette, line weight, and framing throughout.")
+                return base + " " + tip
+
             # Generate comic images button
             if not st.session_state.comic_images:
                 if st.button("🎨 Generate All Comic Images", type="primary"):
@@ -657,10 +820,21 @@ def main():
                                 # Update progress
                                 status_text.text("Initializing Gemini image generation...")
                                 
+                                # Build sheets for image consistency
+                                style_sheet = _build_style_sheet(comic_style)
+                                character_sheet = _extract_character_sheet(st.session_state.storyline or "")
+                                negative_concepts = [
+                                    "text", "letters", "watermark", "logo", "caption", "speech bubble", "ui"
+                                ]
+
                                 image_paths = image_generator.generate_comic_strip(
                                     st.session_state.scene_prompts,
                                     "data/images",
-                                    st.session_state.page_info["title"]
+                                    st.session_state.page_info["title"],
+                                    style_sheet=style_sheet,
+                                    character_sheet=character_sheet,
+                                    negative_concepts=negative_concepts,
+                                    aspect_ratio="16:9"
                                 )
                                 
                                 progress_bar.progress(100)
@@ -733,7 +907,7 @@ def main():
                             audio_paths = generate_scene_audios(
                                 st.session_state.narrations,
                                 st.session_state.page_info["title"],
-                                base_dir="data/narration",
+                                base_dir="data/narrations",
                                 lang=tts_lang,
                                 tld=tts_accent,
                                 slow=slow_speech,

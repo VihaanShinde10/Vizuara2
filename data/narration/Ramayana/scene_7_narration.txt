@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-Rama faces Ravana in a fiery, explosive landscape, their fate and the kingdom's hanging in the balance. Determination and anger fuel Rama's fierce battle cry as he charges forward, the outcome of the epic struggle far from certain. The air is electric with tension, the very fate of Ayodhya at stake.
+Rama fights bravely against Ravana's army. Hanuman leaps into battle, helping Rama. The war is intense, with the fate of Sita hanging in the balance. Rama and his allies are determined to rescue Sita and defeat Ravana. The battle rages on, with Rama's courage inspiring his troops.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 7
-Scene 7: The Final Confrontation
-Narrative Context: Rama faces off against Ravana in a final, decisive battle. This scene marks the climax of the story, as Rama's fate and the fate of his kingdom hang in the balance.
-Visual Description: A dramatic, intense scene of the final battle, with Rama and Ravana facing off in a fiery, explosive landscape. The camera angle is close, with a sense of intimacy and danger. The lighting is bright, with shades of red and orange, and the atmosphere is tense. Rama's face is set in determination, with a hint of anger.
-Style Notes: western comic with dynamic, expressive action sequences and dramatic lighting.
-Continuity: This scene connects to the next by showing the aftermath of the battle and the fate of Ravana.
+Scene 7: The Battle with Ravana's Army
+Narrative Context: Rama, along with Hanuman and his army, fights a war to rescue Sita and defeat Ravana. This scene marks a climactic moment in the story, as the fate of Sita and the kingdom hangs in the balance.
+Visual Description: A chaotic and action-packed scene showing Rama, Hanuman, and their allies clashing with Ravana's army. The color palette is dark and intense, with shades of black, red, and purple. The camera angle is a wide shot, capturing the chaos and destruction of the battle. Rama is shown fighting valiantly, as Hanuman leaps and bounds through the fray.
+Style Notes: indie comic with a focus on dynamic action and dramatic lighting.
+Continuity: This scene connects to the next by showing the battle, which will soon lead to Ravana's defeat.

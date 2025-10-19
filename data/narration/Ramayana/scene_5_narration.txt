@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-Hanuman leaps across the ocean, determination etched on his face, as he embarks on a perilous journey to Lanka, driven by unwavering loyalty to Rama and unrelenting passion to rescue Sita.
+Rama and Lakshmana search for Sita, determined to find her. They stand on a hill, looking out at the vast forest, ready for their big quest. Rama's face shows he won't give up, and he's getting closer to finding his wife.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 5
-Scene 5: Hanuman's Journey
-Narrative Context: Hanuman travels to Lanka, discovering Sita and learning of Ravana's plans. This scene marks a crucial moment in the story, as Hanuman becomes a key ally for Rama.
-Visual Description: A dramatic, action-packed scene of Hanuman jumping from island to island, with the ocean stretching out behind him. The camera angle is dynamic, with a sense of movement and energy. The lighting is bright, with shades of blue and white, and the atmosphere is exciting. Hanuman's face is set in determination, with a hint of a smile.
-Style Notes: western comic with fast-paced, dynamic action sequences and dramatic lighting.
-Continuity: This scene connects to the next by showing Hanuman's bravery and cunning as he navigates the challenges of his journey.
+Scene 5: Rama's Search for Sita
+Narrative Context: Rama and Lakshmana search for Sita, following her trail and gathering allies along the way. This scene serves to establish Rama's determination and resourcefulness.
+Visual Description: A sweeping scene showing Rama and Lakshmana standing atop a hill, looking out over the forest. The color palette is vibrant, with shades of blue, green, and yellow. The camera angle is a wide shot, capturing the vastness of the landscape and the duo's smallness in comparison. Rama's face is filled with determination, as he gazes out at the horizon.
+Style Notes: indie comic with a focus on expansive landscapes and heroic poses.
+Continuity: This scene connects to the next by showing Rama's search, which will soon lead to his encounter with Hanuman.

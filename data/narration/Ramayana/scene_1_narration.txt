@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-In the resplendent palace of Ayodhya, a new era dawns as Queen Kausalya cradles the serene newborn Rama, surrounded by jubilant servants and family, basking in the warm, golden light of celebration, as the kingdom's fate is forever changed by his arrival.
+Rama plays happily in Ayodhya's palace gardens with his brothers. His parents, King Dasharatha and Queen Kausalya, watch with big smiles. Rama's life is peaceful and fun, but big changes are coming. This happy time in Ayodhya is important because it shows how much Rama has to lose.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 1
-Scene 1: The Birth of Rama
-Narrative Context: The story begins with the birth of Rama, a prince of Ayodhya, and sets the stage for his journey. This scene introduces the main character and establishes the royal setting of the kingdom.
-Visual Description: A grand, ornate palace with a bright, sunny courtyard. Rama's mother, Queen Kausalya, holds the newborn Rama, surrounded by joyful servants and family members. The camera angle is high, looking down on the scene, with a warm, golden light and a sense of celebration. Rama's face is serene, with a hint of a smile. The color palette is vibrant, with shades of red, gold, and blue.
-Style Notes: western comic with intricate, detailed backgrounds and expressive character designs.
-Continuity: This scene connects to the next by introducing Rama and the royal family, setting the stage for the events that will unfold.
+Scene 1: Rama's Childhood in Ayodhya
+Narrative Context: The story begins with Rama's childhood, introducing the main character and setting the tone for the epic tale. This scene serves to establish Rama's happy and peaceful life in Ayodhya.
+Visual Description: A bright and colorful scene showing Rama as a young boy, playing with his brothers in the palace gardens of Ayodhya. The sun shines down, casting a warm glow over the scene. Rama's parents, King Dasharatha and Queen Kausalya, watch over him with loving expressions. The camera angle is a wide shot, capturing the beauty of the palace and the joy of Rama's childhood. The color palette is vibrant, with shades of blue, green, and yellow.
+Style Notes: indie comic with a focus on expressive character designs and detailed backgrounds.
+Continuity: This scene connects to the next by introducing Rama's life in Ayodhya, which will soon be disrupted by his exile.

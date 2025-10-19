@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-Rama's serene face glows with a hint of a smile as he's crowned king, marking the triumphant beginning of Rama Rajya, his righteous rule, amidst a grand, joyful celebration in the palace, with the kingdom basking in golden light.
+Sita stands bravely before the fiery pit, surrounded by Rama and the people of Ayodhya. She's about to prove her purity and loyalty. The flames lick at her feet, but she emerges unscathed, her faith and devotion shining through. This moment is crucial - it will lead to Rama's coronation as king.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 9
-Scene 9: Rama's Coronation
-Narrative Context: Rama is crowned king, and his rule, known as Rama Rajya, is established. This scene marks a triumphant moment in the story, as Rama's journey comes full circle.
-Visual Description: A grand, celebratory scene of Rama's coronation, with the palace and the kingdom in the background. The camera angle is high, looking down on the scene, with a sense of scope and celebration. The lighting is bright, with shades of golden brown and red, and the atmosphere is joyful. Rama's face is serene, with a hint of a smile.
-Style Notes: western comic with detailed, realistic environments and expressive character designs.
-Continuity: This scene connects to the next by showing the establishment of Rama's rule and the conclusion of the story.
+Scene 9: Sita's Trial by Fire
+Narrative Context: Sita undergoes a trial by fire to prove her purity and loyalty to Rama. This scene marks a poignant moment in the story, as Sita's faith and devotion are tested.
+Visual Description: A somber and emotional scene showing Sita standing before a fiery pit, surrounded by Rama, Lakshmana, and the people of Ayodhya. The color palette is warm and golden, with shades of orange, yellow, and red. The camera angle is a close-up, capturing Sita's brave and determined expression. The flames are shown licking at her feet, as she emerges unscathed and pure.
+Style Notes: indie comic with a focus on emotional intensity and dramatic lighting.
+Continuity: This scene connects to the next by showing Sita's trial, which will lead to Rama's coronation as king.

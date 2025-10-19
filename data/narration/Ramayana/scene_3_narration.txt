@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-In the depths of the forest, darkness descends as Ravana's sinister figure emerges, dragging Sita away. Rama and Lakshmana give chase, driven by desperation and duty, as the fate of their beloved hangs in the balance.
+Rama, Sita, and Lakshmana journey into the forest, facing big challenges. They're brave and determined, ready for whatever comes next. Rama and Lakshmana carry bows and arrows, protecting Sita as they walk. The forest is vast, but they're together, and that gives them strength.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 3
-Scene 3: The Abduction of Sita
-Narrative Context: Rama, Sita, and Lakshmana are living in the forest, when Ravana, the demon king, kidnaps Sita. This scene marks a pivotal moment in the story, as Rama's quest to rescue Sita begins.
-Visual Description: A dark, ominous scene in the forest, with Ravana's shadowy figure looming in the background. Sita is being dragged away, with Rama and Lakshmana in pursuit. The camera angle is fast-paced, with a sense of urgency and danger. The lighting is dim, with shades of dark green and brown, and the atmosphere is tense.
-Style Notes: western comic with fast-paced, dynamic action sequences and dramatic lighting.
-Continuity: This scene connects to the next by showing the aftermath of Sita's abduction and Rama's determination to rescue her.
+Scene 3: Rama's Journey to the Forest
+Narrative Context: Rama, along with Sita and Lakshmana, sets out on a journey to the forest, facing many challenges and dangers along the way. This scene serves to establish the trio's bond and determination.
+Visual Description: A dynamic scene showing Rama, Sita, and Lakshmana walking through the forest, surrounded by tall trees and winding paths. The color palette is earthy, with shades of brown, green, and tan. The camera angle is a wide shot, capturing the vastness of the forest and the trio's smallness in comparison. Rama and Lakshmana are shown carrying bows and arrows, while Sita walks beside them, looking brave and determined.
+Style Notes: indie comic with a focus on action and movement.
+Continuity: This scene connects to the next by showing the trio's journey, which will soon lead to their encounter with Ravana.

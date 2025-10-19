@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-Rama and Lakshmana venture deeper into the forest, driven by hope and determination, as they search for Sita, their journey unfolding like a testament to unwavering loyalty and unrelenting courage, with Hanuman watching from afar, his curiosity piqued.
+Ravana, disguised as a beggar, tricks Sita into leaving her hut. He grabs her and carries her away. Sita is scared and tries to escape. This is a big moment - Ravana's evil plan is working, and Sita's fate is in danger. Rama will have to act fast to save her!
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 4
-Scene 4: The Search for Sita
-Narrative Context: Rama and Lakshmana search for Sita, meeting many allies and enemies along the way. This scene shows their journey and introduces new characters, such as Hanuman.
-Visual Description: A sweeping, panoramic scene of the forest, with Rama and Lakshmana walking in the distance. The camera angle is high, looking down on the scene, with a sense of scope and adventure. The lighting is warm, with shades of golden brown and green, and the atmosphere is hopeful. Hanuman is seen in the background, watching Rama and Lakshmana from a tree.
-Style Notes: western comic with detailed, realistic environments and expressive character designs.
-Continuity: This scene connects to the next by introducing Hanuman and showing Rama's continued search for Sita.
+Scene 4: The Kidnapping of Sita
+Narrative Context: Ravana, disguised as a beggar, tricks Sita into leaving the safety of their hut and kidnaps her. This scene marks a crucial moment in the story, as Sita's fate is sealed.
+Visual Description: A tense and action-packed scene showing Ravana, disguised as a beggar, approaching Sita outside their hut. The color palette is dark and ominous, with shades of black, red, and purple. The camera angle is a close-up, capturing Sita's fear and Ravana's cunning expression. Ravana's hands are shown grasping Sita, as he carries her off into the distance.
+Style Notes: indie comic with a focus on dramatic tension and suspense.
+Continuity: This scene connects to the next by showing Sita's kidnapping, which will lead to Rama's quest to rescue her.

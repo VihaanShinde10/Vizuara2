@@ -4,14 +4,14 @@
 **Tone:** engaging
 
 ## Narration Text
-Sita stands serene, surrounded by flames, her faith and devotion tested. Rama watches, tense with concern, as the trial by fire unfolds, proving her purity and vindicating her honor. The atmosphere is heavy with anticipation, the outcome hanging in the balance.
+Rama defeats Ravana, saving Sita and the kingdom. He stands victorious, relieved and happy. His friends cheer, proud of his bravery. This big win means Rama can finally return home to Ayodhya, where he'll be welcomed as a hero.
 
 ==================================================
 
 ## Original Scene Prompt
 ## Scene 8
-Scene 8: Sita's Trial by Fire
-Narrative Context: Sita is forced to undergo a trial by fire, to prove her purity after her time in captivity. This scene marks a poignant moment in the story, as Sita's faith and devotion are tested.
-Visual Description: A dramatic, emotional scene of Sita standing in the fire, with Rama and the other characters watching in the background. The camera angle is close, with a sense of intimacy and concern. The lighting is warm, with shades of golden brown and orange, and the atmosphere is tense. Sita's face is serene, with a hint of sadness.
-Style Notes: western comic with expressive, emotional character designs and dramatic lighting.
-Continuity: This scene connects to the next by showing Sita's vindication and the aftermath of the trial.
+Scene 8: Ravana's Defeat
+Narrative Context: Rama ultimately defeats Ravana, rescuing Sita and saving the kingdom. This scene marks a triumphant moment in the story, as Rama's determination and courage are rewarded.
+Visual Description: A dramatic scene showing Rama standing victorious over Ravana's lifeless body. The color palette is bright and celebratory, with shades of gold, yellow, and orange. The camera angle is a close-up, capturing Rama's triumphant expression and Sita's relieved face. Hanuman and the other allies are shown cheering and congratulating Rama in the background.
+Style Notes: indie comic with a focus on heroic poses and dramatic lighting.
+Continuity: This scene connects to the next by showing Ravana's defeat, which will lead to Rama's return to Ayodhya.
