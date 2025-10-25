@@ -588,10 +588,10 @@ def main():
             
             tts_accent = st.selectbox(
                 "Accent",
-                options=["com", "co.uk", "co.in", "com.au", "ca", "co.za"],
+                options=[ "co.in","com", "co.uk", "com.au", "ca", "co.za"],
                 index=0,
                 format_func=lambda x: {
-                    "com": "🇺🇸 US", "co.uk": "🇬🇧 UK", "co.in": "🇮🇳 India",
+                    "co.in": "🇮🇳 India","com": "🇺🇸 US", "co.uk": "🇬🇧 UK", 
                     "com.au": "🇦🇺 Australia", "ca": "🇨🇦 Canada", "co.za": "🇿🇦 South Africa"
                 }.get(x, x),
                 help="Select accent/region for English (applies to English only)"
@@ -623,7 +623,7 @@ def main():
         - More engaging storytelling
         - Better UI with improved layout
         
-        Made with ❤️ by Airavat
+        
         """)
     
     # Main content area
@@ -655,24 +655,24 @@ def main():
                         st.session_state.comic_images = None
                         st.markdown(f'<div class="success-card">✅ Found {len(search_results)} results for "{query}"</div>', unsafe_allow_html=True)
         
-        # Display search results
-        if st.session_state.search_results:
-            st.markdown("#### 📋 Search Results - Select a topic:")
-            
-            # Display in a grid
-            cols = st.columns(3)
-            for i, result in enumerate(st.session_state.search_results):
-                with cols[i % 3]:
-                    if st.button(f"📄 {result}", key=f"result_{i}"):
-                        st.session_state.selected_topic = result
-                        st.session_state.page_info = None
-                        st.session_state.storyline = None
-                        st.session_state.scene_prompts = None
-                        st.session_state.comic_images = None
-                        st.session_state.narrations = None
-                        st.session_state.audio_paths = None
-                        st.rerun()
-    
+    # Display search results
+    if st.session_state.search_results:
+        st.markdown("#### 📋 Search Results - Select a topic:")
+        
+        # Display in a grid
+        cols = st.columns(3)
+        for i, result in enumerate(st.session_state.search_results):
+            with cols[i % 3]:
+                if st.button(f"📄 {result}", key=f"result_{i}"):
+                    st.session_state.selected_topic = result
+                    st.session_state.page_info = None
+                    st.session_state.storyline = None
+                    st.session_state.scene_prompts = None
+                    st.session_state.comic_images = None
+                    st.session_state.narrations = None
+                    st.session_state.audio_paths = None
+                    st.rerun()
+
         # Step 2: Generate storyline
         if st.session_state.selected_topic:
             st.markdown("---")
@@ -863,7 +863,7 @@ def main():
                 if idx < len(st.session_state.comic_images):
                     with cols[j]:
                         st.markdown(f'<div class="comic-panel">', unsafe_allow_html=True)
-                        st.image(st.session_state.comic_images[idx], use_column_width=True)
+                        st.image(st.session_state.comic_images[idx], use_container_width=True)
                         st.markdown(f'<div class="comic-caption">Scene {idx+1}</div>', unsafe_allow_html=True)
                         st.markdown('</div>', unsafe_allow_html=True)
     
@@ -973,7 +973,7 @@ def main():
                                     data=f.read(),
                                     file_name=os.path.basename(st.session_state.final_video),
                                     mime="video/mp4",
-                                    use_column_width=True
+                                    use_container_width=True
                                 )
                     except Exception as e:
                         st.markdown(f'<div class="error-card">❌ Error generating video: {str(e)}</div>', unsafe_allow_html=True)
@@ -989,7 +989,7 @@ def main():
                     data=f.read(),
                     file_name=os.path.basename(st.session_state.final_video),
                     mime="video/mp4",
-                    use_column_width=True
+                    use_container_width=True
                 )
 
 # Call main function if script is run directly

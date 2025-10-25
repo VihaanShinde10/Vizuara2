@@ -25,6 +25,7 @@ wheels/
 
 # Environment variables
 .env
+.history/
 
 # Logs
 *.log
